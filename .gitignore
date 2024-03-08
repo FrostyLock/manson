@@ -1,4 +1,5 @@
 .project
 .settings
+.nodes
 salesforce.schema
 Referenced Packages
