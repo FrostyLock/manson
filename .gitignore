@@ -2,4 +2,5 @@
 .settings
 .nodes
 .salesforce.schema
+.*support
 
