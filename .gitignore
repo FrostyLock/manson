@@ -1,5 +1,6 @@
 .project
 .settings
+.relay
 .nodes
 .salesforce.schema
 .*support
